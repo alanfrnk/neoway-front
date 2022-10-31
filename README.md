@@ -14,9 +14,6 @@ Instalar pacotes, na pasta do projeto
 ### `yarn install`
 
 
-Mudar variável MONGO_URI de conexão com o banco no arquivo .env
-
-
 Iniciar, Na pasta do projeto 
 ### `yarn start`
 
